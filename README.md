@@ -1,9 +1,17 @@
 # Dagrs
 
+# ⚠️ Repository Moved
+
+> **Note:** This repository has been archived.
+
+The code for `dagrs` has been merged into **[rk8s-dev/rk8s](https://github.com/rk8s-dev/rk8s)** under the `project/dagrs` directory.
+
+* **Development & Maintenance:** Continues at the new location.
+* **Issues:** Please open tickets in the [rk8s repository](https://github.com/rk8s-dev/rk8s/issues).
+* **Crates:** New versions will continue to be published from the updated source.
+
 Welcome to **Dagrs**! Dagrs is an easy-to-use, high-performance asynchronous task programming framework written in Rust.
 Dagrs follows the concept of Flow based Programming, and aims to provide users with convenient programming interface.
-
-[Website](https://dagrs.com/) | [Guides](https://dagrs.com/docs/getting-started/introduction) | [Chat](https://discord.gg/4JzaNkRP)
 
 ## Project Overview
 
@@ -185,4 +193,5 @@ Email: Quanyi Ma <eli@patch.sh>, Xiaolong Fu <njufxl@gmail.com>
 ### Discord
 
 Welcome to join our discord channel https://discord.gg/4JzaNkRP
+
 
